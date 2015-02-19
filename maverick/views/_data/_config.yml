@@ -1,0 +1,33 @@
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "lax_spacing"]
+highlighter: pygments
+permalink: /:year/:month/:title
+# permalink: pretty
+include: ['.htaccess']
+exclude: ['node_modules', 'scss', 'Gruntfile.js', 'package.json', '*.sublime-project', '*.sublime-workspace', 'LICENSE', 'teamcity', '*.psd']
+timezone: Europe/London
+future: false
+
+
+paginate: 10
+paginate_path: /:num
+
+name: tech.tmw
+description: TMW agency's tech blog
+url: http://tech.tmw.co.uk
+
+collections:
+  team:
+    output: false
+  code:
+    output: true
+    permalink: code/:path/
+  work:
+    output: true
+
+info:
+  # url: http://mayfly.tmwtest.co.uk/techblog
+  url: http://0.0.0.0:8000
+  twitter: tmwTechTeam
+  github: tmwagency

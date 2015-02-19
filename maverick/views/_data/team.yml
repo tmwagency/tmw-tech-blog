@@ -1,0 +1,203 @@
+- name: Zander Martineau
+  surname: Martineau
+  job_title: Senior Creative Technologist
+  short_name: zander
+  short_desc: Zander is a Creative Technologist at TMW. Maintainer of Kickoff and sometimes confused with Harry Potter.
+  avatar: zmartineau.jpg
+  email: zmartineau@tmw.co.uk
+  web: http://martineau.tv
+  twitter: mrmartineau
+  github: mrmartineau
+  team: frontend
+
+- name: Ashley Nolan
+  surname: Nolan
+  job_title: Senior Creative Technologist
+  short_name: ashnolan
+  short_desc: Ashley is a Senior Creative Technologist at TMW.  He currently splits his commitments between two very worthwhile endeavors; watching Netflix and playing PS4…
+  avatar: anolan.jpg
+  email: anolan@tmw.co.uk
+  web: http://www.ashleynolan.co.uk
+  twitter: AshNolan_
+  github: ashleynolan
+  team: frontend
+
+- name: Ciaran Park
+  surname: Park
+  job_title: Creative Technologist
+  short_name: cpark
+  short_desc: Ciaran is a Creative Technologist at TMW.
+  avatar: cpark.png
+  email: cpark@tmw.co.uk
+  web: http://www.ashleynolan.co.uk
+  twitter: ciaranpark
+  github: ciaranpark
+  team: frontend
+
+- name: Ivan Hayes
+  surname: Hayes
+  job_title: Creative Technologist
+  short_name: ihayes
+  short_desc: Ivan is a Creative Technologist at TMW. He is a professional geek by day, and skateboard dude by night.
+  avatar: ihayes.jpg
+  email: ihayes@tmw.co.uk
+  twitter: munkychop
+  github: munkychop
+  team: frontend
+  web: http://ivanhayes.com
+
+- name: Simon Kinslow
+  surname: Kinslow
+  short_name: skinslow
+  job_title: Senior Designer
+  short_desc: Simon is a Designer at TMW and a developer wannabe. He is currently learning the ropes with JavaScript and responsive CSS by coding up an old skool bitmap game.
+  avatar: skinslow.jpg
+  email: skinslow@tmw.co.uk
+  web: http://www.simonkinslow.com/
+  twitter: kinslowdian
+  github: kinslowdian
+  team: frontend
+
+- name: Ashley Sheridan
+  surname: Sheridan
+  short_name: asheridan
+  job_title: PHP developer
+  short_desc: A PHP developer with a penchant for Linux, open-source and general tinkering.
+  avatar: asheridan.jpg
+  email: asheridan@tmw.co.uk
+  web: http://ashleysheridan.co.uk
+  twitter: ashleyjsheridan
+  github: ashleyjsheridan
+  team: php
+
+- name: Andrew Williams
+  surname: Williams
+  short_name: awilliams
+  short_desc: Roo is a Product Designer at TMW tasked with exploring the boundaries between the physical and digital world.
+  avatar: awilliams.jpg
+  email: awilliams@tmw.co.uk
+  twitter: roowilliams
+  github: roowilliams
+  web: http://roowilliams.com
+  job_title: Product Designer
+
+- name: Fabian Andrade
+  surname: Andrade
+  short_name: favalencia
+  display_name: Fabian Andrade Valencia
+  avatar: favalencia.jpg
+  email: favalencia@tmw.co.uk
+  github: fabzl
+  team: frontend
+
+- name: Rolff Kruger
+  surname: Kruger
+  short_name: rkruger
+  short_desc: Technical Director
+  github: rkruger
+  twitter: rkruger
+
+- name: Matt Basson
+  surname: Basson
+  job_title: Senior .Net Developer
+  short_desc: Matthew is a Senior .Net Developer specializing in MVC and other web technologies.When not developing likes to snowboard when theres snow and has a keen interest in Music production.
+  short_name: mbasson
+  github: MattBasson
+  avatar: mbasson.jpg
+  team: dotnet
+
+- name: Iqbal Kahn
+  surname: Kahn
+  short_name: ikhan
+  short_desc: .Net Developer
+  github: MedievalCoder
+  team: dotnet
+
+- name: Yemi Akinola-Kehinde
+  surname: Akinola-Kehinde
+  short_name: yemi
+  short_desc: Junior Front-end developer
+  avatar: yemi.jpg
+  github: YKehinde
+  team: frontend
+
+- name: Rento Mucenieks
+  surname: Mucenieks
+  short_name: rmucenieks
+  short_desc: Full-stack developer. Currently exploring blockchain technologies.
+  github: rentodesign
+  team: php
+  avatar: rmucenieks.jpg
+
+- name: Edward Acheampong
+  surname: Acheampong
+  short_name: eacheampong
+  short_desc: .Net developer
+  github: mreacheampong
+  team: dotnet
+
+- name: Vijay Kumar Rajagopolan
+  surname: Rajagopolan
+  short_name: vijay
+  short_desc: Senior .Net Developer
+  github: vijaykumar-r
+  team: php
+
+- name: Danny Amaral
+  surname: Amaral
+  job_title: Junior QA Tester
+  short_name: damaral
+  short_desc: Danny is a Junior QA Tester at TMW. Loves breaking sites for fun, finding bugs and is a gaming God.
+  avatar: danny.jpg
+  email: damaral@tmw.co.uk
+  web:
+  twitter:
+  github:
+  team: QA
+
+- name: Colin Humphrey
+  surname: Humphrey
+  job_title: PHP developer
+  short_name: chumphrey
+  email: chumphrey@tmw.co.uk
+  team: PHP
+
+- name: Dee Kennerly
+  surname: Kennerly
+  job_title: .NET developer
+  short_name: dkennerly
+  email: dkennerly@tmw.co.uk
+  team: .NET
+
+- name: Naveen Ameti
+  surname: Ameti
+  job_title: .NET developer
+  short_name: nametti
+  email: nametti@tmw.co.uk
+  team: .NET
+  
+- name: Guillaume Buat-Menard
+  surname: Buat-Menard
+  short_name: guillaume
+  twitter: TheG
+  display: no
+  
+- name: Tim Coppinger
+  surname: Coppinger
+  short_name: tim
+  short_desc: .Net Developer, avid snowboarder and nerf gun owner.
+  twitter: MilitantPenguin
+  avatar: timmy.jpg
+  display: no
+
+  # - name: This person
+  # surname: person
+  # job_title:
+  # short_name:
+  # short_desc:
+  # avatar:
+  # email:
+  # web:
+  # twitter:
+  # github:
+  # team:
